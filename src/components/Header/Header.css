@@ -1,0 +1,9 @@
+
+.headerDiv{
+  
+    height: 120px;
+    background: linear-gradient(to right, rgba(235, 43, 9, 0.5), rgba(108, 214, 179, 0.5)), url("../../images/indir.png");
+    background-repeat: no-repeat;
+   
+    
+}
